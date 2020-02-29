@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dd6cab7-b7be-4a90-8919-c2cc87d4c342" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YRJSDIVFix5BxFE8eymhlGqIDF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/log4j-1.2.16.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.42156863" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA\Swing\src\com\xgcd" />
+      <recent name="F:\IDEA\Swing\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SwingDemo">
+    <configuration name="ProgramEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xgcd.ProgramEntry" />
+      <module name="Swing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xgcd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xgcd.SwingDemo" />
+      <module name="Swing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xgcd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xgcd.SwingDemo" />
+      <module name="Swing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xgcd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SwingDemo" />
+        <item itemvalue="Application.SwingDemo" />
+        <item itemvalue="Application.ProgramEntry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dd6cab7-b7be-4a90-8919-c2cc87d4c342" name="Default Changelist" comment="" />
+      <created>1582899470214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582899470214</updated>
+      <workItem from="1582899473796" duration="891000" />
+      <workItem from="1582905604979" duration="1198000" />
+      <workItem from="1582950130730" duration="14075000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582899703158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582899703158" />
+    <state x="634" y="263" key="FileChooserDialogImpl" timestamp="1582950173204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="263" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582950173204" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1582964916837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582964916837" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1582964916837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582964916837" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1582964916837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582964916837" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1582964916837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582964916837" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1582963966384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582963966384" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1582963966384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582963966384" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1582963966384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582963966384" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1582963966384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582963966384" />
+    <state x="782" y="457" key="ReplaceDuplicatesPrompt" timestamp="1582963430378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="457" key="ReplaceDuplicatesPrompt/0.0.1920.1040@0.0.1920.1040" timestamp="1582963430378" />
+    <state x="440" y="97" key="SettingsEditor" timestamp="1582950178368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582950178368" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1582906682111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582906682111" />
+    <state x="514" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582963951862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="514" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1582963951862" />
+    <state x="928" y="307" width="540" height="490" key="extract.method.dialog" timestamp="1582963425768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="928" y="307" width="540" height="490" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582963425768" />
+  </component>
+</project>
